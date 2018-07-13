@@ -1,0 +1,3 @@
+UCT文件夹下放的是UCT算法，即最终的代码
+simple文件夹下放的是alpha-beta剪枝算法代码，bitboard下放的是位棋盘优化过的alpha-beta剪枝
+Strategy.dll是UCT算法的dll文件
